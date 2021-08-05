@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E704C801-883F-4592-9705-55606A20CE9C}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanbersky.CouchbaseDB", "src\Kanbersky.CouchbaseDB\Kanbersky.CouchbaseDB.csproj", "{9507755D-86AF-4632-AB7E-7CE3AAF7AC43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9507755D-86AF-4632-AB7E-7CE3AAF7AC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9507755D-86AF-4632-AB7E-7CE3AAF7AC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9507755D-86AF-4632-AB7E-7CE3AAF7AC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9507755D-86AF-4632-AB7E-7CE3AAF7AC43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9507755D-86AF-4632-AB7E-7CE3AAF7AC43} = {E704C801-883F-4592-9705-55606A20CE9C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C9D811A-2434-4AA7-BB21-C5031AA54F65}
+	EndGlobalSection
+EndGlobal

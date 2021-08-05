@@ -1,0 +1,11 @@
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\bin\Release\net5.0\Kanbersky.CouchbaseDB.deps.json
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\bin\Release\net5.0\Kanbersky.CouchbaseDB.dll
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\bin\Release\net5.0\ref\Kanbersky.CouchbaseDB.dll
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\bin\Release\net5.0\Kanbersky.CouchbaseDB.pdb
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\obj\Release\net5.0\Kanbersky.CouchbaseDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\obj\Release\net5.0\Kanbersky.CouchbaseDB.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\obj\Release\net5.0\Kanbersky.CouchbaseDB.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\obj\Release\net5.0\Kanbersky.CouchbaseDB.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\obj\Release\net5.0\Kanbersky.CouchbaseDB.dll
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\obj\Release\net5.0\ref\Kanbersky.CouchbaseDB.dll
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.CouchbaseDB\src\Kanbersky.CouchbaseDB\obj\Release\net5.0\Kanbersky.CouchbaseDB.pdb

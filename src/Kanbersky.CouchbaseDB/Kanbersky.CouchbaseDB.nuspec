@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Kanbersky.CouchbaseDB</id>
+    <version>1.0.0.0</version>
+    <title>Kanbersky CouchbaseDB Infrastructure</title>
+    <authors>Sefik Can Kanber</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Sefikcan/Kanbersky.CouchbaseDB</projectUrl>
+    <description>This package is used in couchbasedb crud operations.</description>
+    <releaseNotes>Add couchbaseDB generic repository methods</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>Couchbase N1QL NoSQL</tags>
+    <dependencies>
+      <dependency id="Couchbase.Extensions.DependencyInjection" version="2.0.2"></dependency>
+    </dependencies>
+  </metadata>
+</package>
